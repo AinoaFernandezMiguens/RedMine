@@ -1,9 +1,9 @@
-#Introducción
+# Introducción
  
-##Descripción básica
+## Descripción básica
 Redmine es un planificador y gestor de proyectos.
 
-##Características
+## Características
 Se pueden crear dos tipos de proyectos, públicos y privados. Los proyectos públicos son visibles para todo el mundo mientras que los proyectos privados son gestionados por los administradores que dan accesos a los usuarios. En los dos casos se puede dividir el proyecto en subproyectos. Existen roles definidos por proyecto, de modo que un mismo usuario puede tener distintos roles en los proyectos que participe.
 
 Entrando en cada proyecto vemos que es muy personalizable. Según el objetivo del proyecto podemos activar o desactivar diferentes módulos en cualquier combinación como wiki, foro, noticias, peticiones, control del tiempo, documentos y ficheros (repositorio). Hay módulos que son comunes para todos los proyectos como el de actividad y vistazo. 
