@@ -1,7 +1,7 @@
 # RedMine
 
 
-Evaluación y documentación de un gestor de proyectos
+Evaluación y documentación de un servicio de asistencia técnica
 
 
 * Curso: 1ºASIR
