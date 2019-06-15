@@ -1,3 +1,4 @@
+<div class=text-justify>
 # Introducción
  
 ### Descripción básica
@@ -37,3 +38,4 @@ http://www.gnu.org/licenses/gpl-2.0.html
 	En donde se define como software libre con todo lo que ello implica. Se descarga de forma gratuita desde: 
 http://www.redmine.org/wiki/redmine/Download
 Desde la propia página no se ofrecen servicios o soporte sobre Redmine porque está mantenido por una comunidad de voluntarios, pero existe una gran cantidad de empresas que trabajan con ella y ofrecen instalaciones, soporte, formación o desarrollos.
+</div>
