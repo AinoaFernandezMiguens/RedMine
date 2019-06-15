@@ -5,7 +5,7 @@
 Redmine es un planificador y gestor de proyectos.
 
 ### Características
-<div class=text-justify>
+
 
 Se pueden crear dos tipos de proyectos, públicos y privados. Los proyectos públicos son visibles para todo el mundo mientras que los proyectos privados son gestionados por los administradores que dan accesos a los usuarios. En los dos casos se puede dividir el proyecto en subproyectos. Existen roles definidos por proyecto, de modo que un mismo usuario puede tener distintos roles en los proyectos que participe.
 
@@ -23,7 +23,7 @@ Si se necesita exportar la información, se pueden aplicar filtros y exportar lo
 Cada usuario tiene una página personal personalizable donde puede visualizar los distintos proyectos donde participa, calendarios globales e incluso una barra de buscador. Puede añadir módulos personalizados y ampliar la funcionalidad con las numerosas extensiones que tiene. Se admite como base de datos de MySQL, SQLite y PostgreSQL.
 
 Algunas carencias se pueden apreciar en la complejidad de la instalación de la aplicación. Siendo muy delicada y con poca documentación al respecto.
-</div>
+
 
 ### Multiplataforma y requisitos
 Redmine es una aplicación servidor multiplataforma basada en Ruby on Rails. Los únicos requisitos para instalar Redmine en una máquina son: una base de datos (que puede ser MySQL, PostgreSQL o SQLite), Ruby y Ruby on Rails en sus versiones apropiadas. Si una máquina sostiene esto, puede instalarse Redmine independientemente de la plataforma. Rails funcionará sobre cualquier sistema operativo.
@@ -35,9 +35,8 @@ Redmine dispone de muchos y muy variados Plugins. Se pueden consultar en: http:/
 En la lista vienen los autores de cada uno, una pequeña descripción, versión compatible y de dónde obtenerlo. Pinchando en cada uno se visualiza una ficha específica para cada plugin, con información adicional como la instalación, la actualización o capturas.
 
 ### LICENCIA / DISTRIBUCIONLicencia
-La licencia de la aplicación es GPL v2 y se puede consultar en:
-http://www.gnu.org/licenses/gpl-2.0.html
+La licencia de la aplicación es GPL v2 y se puede consultar en: http://www.gnu.org/licenses/gpl-2.0.html
 
-	En donde se define como software libre con todo lo que ello implica. Se descarga de forma gratuita desde: 
-http://www.redmine.org/wiki/redmine/Download
+En donde se define como software libre con todo lo que ello implica. Se descarga de forma gratuita desde: http://www.redmine.org/wiki/redmine/Download
+	
 Desde la propia página no se ofrecen servicios o soporte sobre Redmine porque está mantenido por una comunidad de voluntarios, pero existe una gran cantidad de empresas que trabajan con ella y ofrecen instalaciones, soporte, formación o desarrollos.
