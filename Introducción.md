@@ -22,7 +22,10 @@ Cada usuario tiene una página personal personalizable donde puede visualizar lo
 Algunas carencias se pueden apreciar en la complejidad de la instalación de la aplicación. Siendo muy delicada y con poca documentación al respecto.
 
 ### Multiplataforma y requisitos
-Redmine es una aplicación servidor multiplataforma basada en Ruby on Rails. Los únicos requisitos para instalar Redmine en una máquina son: una base de datos (que puede ser MySQL, PostgreSQL o SQLite), Ruby y Ruby on Rails en sus versiones apropiadas. Si una máquina sostiene esto, puede instalarse Redmine independientemente de la plataforma. Rails funcionará sobre cualquier sistema operativo.
+Redmine es una aplicación servidor multiplataforma basada en Ruby on Rails. Los únicos requisitos para instalar Redmine en una máquina son: una base de datos (que puede ser MySQL, PostgreSQL o SQLite), Ruby y Ruby on Rails en sus versiones apropiadas. 
+
+Si una máquina sostiene esto, puede instalarse Redmine independientemente de la plataforma. Rails funcionará sobre cualquier sistema operativo.
+
 A nivel de cliente, Redmine puede ser accedido desde cualquier plataforma o sistema operativo, tan solo hace falta conexión a la red apropiada y un navegador de internet.
 
 ### Plugins
