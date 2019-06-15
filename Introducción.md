@@ -28,7 +28,6 @@ A nivel de cliente, Redmine puede ser accedido desde cualquier plataforma o sist
 ### Plugins
 Redmine dispone de muchos y muy variados Plugins. Se pueden consultar en:
 http://www.redmine.org/wiki/redmine/Plugin_List
-
 En la lista vienen los autores de cada uno, una pequeña descripción, versión compatible y de dónde obtenerlo. Pinchando en cada uno se visualiza una ficha específica para cada plugin, con información adicional como la instalación, la actualización o capturas.
 
 ### LICENCIA / DISTRIBUCIONLicencia
