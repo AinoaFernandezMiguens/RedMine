@@ -17,4 +17,3 @@ Evaluación y documentación de un servicio de asistencia técnica
 ## ¿Por dónde empezar?
 
 [Índice](https://github.com/AinoaFernandezMiguens/RedMine/blob/master/0.%20%C3%8Dndice.md)
-<div --allow-empty/>
