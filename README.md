@@ -1,7 +1,7 @@
 # RedMine
 
 
-Evaluación y documentación de un gestor de próyectos
+Evaluación y documentación de un gestor de proyectos
 
 
 * Curso: 1ºASIR
